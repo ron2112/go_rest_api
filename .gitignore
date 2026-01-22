@@ -28,7 +28,10 @@ go.work.sum
 .env
 
 # db
-storage/
+/storage
+
+# config
+/config
 
 # Editor/IDE
 # .idea/
