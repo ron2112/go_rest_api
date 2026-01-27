@@ -1,0 +1,2 @@
+Update the student (Put/Patch)
+Delete a student (Delete)
